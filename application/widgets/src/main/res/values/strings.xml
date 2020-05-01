@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">@string/widgets</string>
+    <string name="button">Button</string>
+    <string name="bottom_sheet">Bottom Sheet</string>
+    <string name="search">Search</string>
+    <string name="hide">Hide</string>
+    <string name="show">Show</string>
+    <string name="status_bar">Status Bar</string>
+    <string name="change_color">Change Color</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="progress_bar">Progress Bar</string>
+    <string name="change_elevation">Change Elevation</string>
+    <string name="seek_bar">Seek Bar</string>
+    <string name="analog_clock">Analog Clock</string>
+    <string name="text_clock">Text Clock</string>
+    <string name="twentyFourHrs">24Hrs</string>
+    <string name="amPm">Am / Pm</string>
+    <string name="autocomplete_text_view">AutoComplete TextView</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="date_picker">Date Picker</string>
+    <string name="show_date_picker">Show Date Picker</string>
+    <string name="toast">Toast</string>
+    <string name="short_toast">Short Toast</string>
+    <string name="long_toast">Long Toast</string>
+    <string name="foo">Foo</string>
+    <string name="time_picker">Time Picker</string>
+    <string name="show_time_picker">Time Picker</string>
+    <string name="show_time_in_24">Show time in 24 format</string>
+    <string name="show_time_in_am_pm">Show time in AM/PM format</string>
+    <string name="radio_button">Radio Button</string>
+    <string name="bar">Bar</string>
+    <string name="chronometer">Chronometer</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="restart">Restart</string>
+    <string name="format">Format</string>
+    <string name="widgets">Widgets</string>
+
+    <!-- Biometric Prompt -->
+    <string name="biometric_prompt">Biometric Prompt</string>
+    <string name="fingerprint_authentication">Fingerprint authentication</string>
+    <string name="fingerprint_authentication_description">Login via system fingerprint authentication.</string>
+    <string name="successful_login">Successful login</string>
+    <string name="fingerprint_hardware_na">Fingerprint detection hardware not detected.</string>
+</resources>

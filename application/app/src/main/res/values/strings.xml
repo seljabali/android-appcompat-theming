@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppCompat Theming</string>
+
+    <!-- Landing Page -->
+    <string name="widgets">Widgets</string>
+    <string name="theme">Theme</string>
+    <string name="design">Design</string>
+</resources>
