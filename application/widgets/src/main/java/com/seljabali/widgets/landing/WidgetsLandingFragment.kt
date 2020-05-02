@@ -66,31 +66,22 @@ class WidgetsLandingFragment : BaseFragment(), WidgetRecyclerViewAdapter.WidgetC
             Widgets.AnalogClock -> startFragment(AnalogClock.newInstance(), AnalogClock.TAG)
             Widgets.AutoCompleteTextView -> startFragment(AutoCompleteTextViewFragment.newInstance(), AutoCompleteTextViewFragment.TAG)
             Widgets.Badge -> { }
-            Widgets.BottomAppBar -> { }
-            Widgets.BottomNavigation -> { }
-            Widgets.BottomSheet -> {}
             Widgets.Button -> startFragment(ButtonFragment.newInstance(), ButtonFragment.TAG)
             Widgets.CalendarView -> { }
             Widgets.CardView -> { }
             Widgets.CheckBox -> startFragment(CheckBoxFragment.newInstance(), CheckBoxFragment.TAG)
             Widgets.CheckedTextView -> { }
-            Widgets.Chips -> { }
             Widgets.Chronometer -> startFragment(ChronometerFragment.newInstance(), ChronometerFragment.TAG)
             Widgets.CompoundButton -> { }
             Widgets.DatePicker -> startFragment(DatePickerFragment.newInstance(), DatePickerFragment.TAG)
             Widgets.Dialog -> { }
             Widgets.DialogFragment -> { }
             Widgets.DrawerLayout -> { }
-            Widgets.EdgeEffect -> { }
             Widgets.EditText -> { }
-            Widgets.ExtendedFloatingActionButton -> { }
             Widgets.FloatingActionButton -> { }
-            Widgets.GridLayout -> { }
-            Widgets.GridView -> { }
             Widgets.ImageButton -> { }
             Widgets.ImageSwitcher -> { }
             Widgets.ImageView -> { }
-            Widgets.Magnifier -> { }
             Widgets.MediaController -> { }
             Widgets.Menu -> { }
             Widgets.MultiAutoCompleteTextView -> { }
@@ -98,7 +89,6 @@ class WidgetsLandingFragment : BaseFragment(), WidgetRecyclerViewAdapter.WidgetC
             Widgets.ProgressBar -> startFragment(ProgressBarFragment.newInstance(), ProgressBarFragment.TAG)
             Widgets.RadioButton -> startFragment(RadioButtonFragment.newInstance(), RadioButtonFragment.TAG)
             Widgets.RatingBar -> { }
-            Widgets.RecyclerView -> { }
             Widgets.SnackBar -> { }
             Widgets.SeekBar -> startFragment(SeekBarFragment.newInstance(), SeekBarFragment.TAG)
             Widgets.Spinner -> { }
