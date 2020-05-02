@@ -13,7 +13,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.seljabali.templateapplication"
+        applicationId "com.seljabali.appcompattheming"
         minSdkVersion project.minSdkVersion
         targetSdkVersion project.targetSdkVersion
         compileSdkVersion project.compileSdkVersion

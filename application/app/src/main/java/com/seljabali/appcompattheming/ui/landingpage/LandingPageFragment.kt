@@ -1,12 +1,12 @@
-package com.seljabali.templateapplication.ui.landingpage
+package com.seljabali.appcompattheming.ui.landingpage
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.seljabali.core.BaseFragment
-import com.seljabali.templateapplication.R
-import com.seljabali.templateapplication.ui.HomeActivity
+import com.seljabali.appcompattheming.R
+import com.seljabali.appcompattheming.ui.HomeActivity
 import kotlinx.android.synthetic.main.fragment_landing_page.*
 
 class LandingPageFragment : BaseFragment() {

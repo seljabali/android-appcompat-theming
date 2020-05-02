@@ -1,11 +1,11 @@
-package com.seljabali.templateapplication.ui.landingpage
+package com.seljabali.appcompattheming.ui.landingpage
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.BaseAdapter
 import com.jakewharton.rxbinding3.view.clicks
-import com.seljabali.templateapplication.R
+import com.seljabali.appcompattheming.R
 import io.reactivex.subjects.PublishSubject
 
 class LandingPageAdapter(private val clickListener: (LandingItem) -> Unit) : BaseAdapter() {

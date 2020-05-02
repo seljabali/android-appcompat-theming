@@ -1,4 +1,4 @@
-package com.seljabali.templateapplication
+package com.seljabali.appcompattheming
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.seljabali.templateapplication", appContext.packageName)
+        assertEquals("com.seljabali.appcompattheming", appContext.packageName)
     }
 }

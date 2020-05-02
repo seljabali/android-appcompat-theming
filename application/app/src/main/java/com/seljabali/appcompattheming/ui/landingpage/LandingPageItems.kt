@@ -1,8 +1,8 @@
-package com.seljabali.templateapplication.ui.landingpage
+package com.seljabali.appcompattheming.ui.landingpage
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
-import com.seljabali.templateapplication.R
+import com.seljabali.appcompattheming.R
 
 
 enum class LandingPageItems(@StringRes override val titleStringId: Int,

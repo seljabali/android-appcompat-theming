@@ -1,4 +1,4 @@
-package com.seljabali.templateapplication.ui
+package com.seljabali.appcompattheming.ui
 
 import android.content.SharedPreferences
 import android.os.Bundle
@@ -9,8 +9,8 @@ import androidx.preference.PreferenceManager
 import com.seljabali.core.BaseActivity
 import com.seljabali.core.BaseFragment
 import com.seljabali.design.landingpage.DesignLandingPageFragment
-import com.seljabali.templateapplication.R
-import com.seljabali.templateapplication.ui.landingpage.LandingPageFragment
+import com.seljabali.appcompattheming.R
+import com.seljabali.appcompattheming.ui.landingpage.LandingPageFragment
 import com.seljabali.widgets.landing.WidgetsLandingFragment
 
 class HomeActivity : BaseActivity(), WidgetsLandingFragment.WidgetsLandingFragmentViewer,

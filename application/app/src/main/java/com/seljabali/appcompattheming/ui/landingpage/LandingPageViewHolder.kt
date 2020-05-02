@@ -1,10 +1,10 @@
-package com.seljabali.templateapplication.ui.landingpage
+package com.seljabali.appcompattheming.ui.landingpage
 
 import android.view.View
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.seljabali.templateapplication.R
+import com.seljabali.appcompattheming.R
 
 class LandingPageViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
 

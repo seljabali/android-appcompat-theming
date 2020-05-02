@@ -1,11 +1,11 @@
-package com.seljabali.templateapplication
+package com.seljabali.appcompattheming
 
 import android.app.Application
 import com.jakewharton.threetenabp.AndroidThreeTen
 import com.orhanobut.logger.AndroidLogAdapter
 import com.orhanobut.logger.Logger
 
-class TemplateApplication: Application() {
+class AppCompatThemingApplication: Application() {
 
     override fun onCreate() {
         super.onCreate()

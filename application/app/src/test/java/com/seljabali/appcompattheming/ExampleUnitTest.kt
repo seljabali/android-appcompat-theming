@@ -1,4 +1,4 @@
-package com.seljabali.templateapplication
+package com.seljabali.appcompattheming
 
 import org.junit.Test
 
