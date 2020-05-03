@@ -18,4 +18,4 @@ Alongside the article, Kao provided a [complimentary repo](https://github.com/pi
 <img src="https://github.com/seljabali/android-appcompat-theming/raw/master/screen-shots/tokyo2.png" alt="" data-canonical-src="" width="400" height="800" />
 
 ## Note 
-While Android AppCompat is no longer preferred in usage, and Material is, many projects still use AppCompat. An equivalent Material repo that show cases themes & widgets in action would be [Google's Material Components for Android.](https://github.com/material-components/material-components-android)
+While Android AppCompat is no longer preferred in usage, and Material is, many projects still use AppCompat. An equivalent Material repo that show cases themes & widgets in action would be Google's [Material Components for Android.](https://github.com/material-components/material-components-android)
